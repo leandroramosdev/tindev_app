@@ -1,0 +1,46 @@
+dependencies: \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/RNGestureHandlerManager.m \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Target\ Support\ Files/RNGestureHandler/RNGestureHandler-prefix.pch \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/RNGestureHandlerManager.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-DevSupport/React/RCTInspectorDevServerHelper.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-DevSupport/React/RCTPackagerConnection.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTUIManager.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTViewManager.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTConvert.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTAnimationType.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTBorderStyle.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTLog.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTAssert.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTUtils.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTPointerEvents.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Private/yoga/Yoga.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Private/yoga/YGEnums.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Private/yoga/YGMacros.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Private/yoga/YGValue.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTEventDispatcher.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/UIView+React.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/leandroramos/Documents/tindev/ios/Pods/Headers/Public/React-Core/React/RCTTouchHandler.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/RNGestureHandlerState.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/RNGestureHandler.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/RNGestureHandlerDirection.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/RNGestureHandlerEvents.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/RNGestureHandlerRegistry.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/RNRootViewGestureRecognizer.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/Handlers/RNPanHandler.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/Handlers/RNTapHandler.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/Handlers/RNFlingHandler.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/Handlers/RNLongPressHandler.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/Handlers/RNNativeViewHandler.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/Handlers/RNPinchHandler.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/Handlers/RNRotationHandler.h \
+  /Users/leandroramos/Documents/tindev/node_modules/react-native-gesture-handler/ios/Handlers/RNForceTouchHandler.h

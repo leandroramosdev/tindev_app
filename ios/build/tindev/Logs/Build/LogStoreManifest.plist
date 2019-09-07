@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4901692C-E8BA-40A1-9F66-F1599C7C83B8</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4901692C-E8BA-40A1-9F66-F1599C7C83B8.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>tindev project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>tindev</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace tindev with scheme tindev and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>588017544.90037894</real>
+			<key>timeStoppedRecording</key>
+			<real>588017553.38031101</real>
+			<key>title</key>
+			<string>Building workspace tindev with scheme tindev and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>4901692C-E8BA-40A1-9F66-F1599C7C83B8</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
